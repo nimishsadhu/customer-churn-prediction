@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Anaconda
+anaconda_projects/
+
+# Jupyter temporary files
+.virtual_documents/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
